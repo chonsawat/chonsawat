@@ -1,7 +1,3 @@
-
-<a href="https://app.daily.dev/chonsawat"><img src="https://github.com/chonsawat/chonsawat/blob/master/devcard.svg" width="150" alt="Chonsawat Nakanam's Dev Card"/></a>
-![](https://github-readme-stats.vercel.app/api?username=chonsawat)
-
 ### Hi, there 👋
 My name's Chonsawat Nakanam. I'm interested in Image Classification using python for now.
 
@@ -23,6 +19,7 @@ My name's Chonsawat Nakanam. I'm interested in Image Classification using python
 
 ### Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chonsawat)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=chonsawat) -->
 
 ### Contact
 <a href="mailto:chonsawat.nakanam@kkumail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
