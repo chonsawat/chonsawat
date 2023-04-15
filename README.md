@@ -1,6 +1,12 @@
 ### Hi, there 👋
 My name's Chonsawat Nakanam. I'm interested in Image Classification using python for now.
 
+#### During learn ... ⌛
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]()
+
+<br>
+
 #### Skills
 <a href="">![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</a>
