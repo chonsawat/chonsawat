@@ -3,6 +3,7 @@ My name's Chonsawat Nakanam. I am in-progress to learn React + ASP.NET for now.
 
 #### Now learning ... ⌛
 <a href="">![](https://img.shields.io/badge/-React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)</a>
+<a href="">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
 
 #### Skills
 <a href="">![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)</a>
