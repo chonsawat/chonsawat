@@ -1,11 +1,13 @@
-### Hi, there 👋
-My name's Chonsawat Nakanam. I am in-progress to learn React + ASP.NET for now.
+### Greeting, Everyone 👋
+My name's Chonsawat Nakanam. I'm during to learn React + ASP.NET.
 
 #### Now learning ... ⌛
-<a href="">![](https://img.shields.io/badge/-React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)</a>
-<a href="">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/ASP.NET-8d10d7?style=for-the-badge&logo=dotnet&logoColor=white)</a>
+<a href="">![](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
 
 #### Skills
+<a href="">![](https://img.shields.io/badge/-React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)</a>
+<a href="">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</a>
@@ -14,16 +16,12 @@ My name's Chonsawat Nakanam. I am in-progress to learn React + ASP.NET for now.
 <a href="">![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)</a>
 
+
 #### Editors & IDE
 <a href="">![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)</a>
-
-
-### Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chonsawat)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=chonsawat) -->
 
 ### Contact
 <a href="mailto:chonsawat.nakanam@kkumail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
