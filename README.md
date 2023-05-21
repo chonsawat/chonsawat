@@ -6,13 +6,19 @@ My name's Chonsawat Nakanam. I'm during to learn React + ASP.NET.
 <a href="">![](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
 
 #### Skills
+Web Development <br>
 <a href="">![](https://img.shields.io/badge/-React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)</a>
 <a href="">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
+<a href="">![JS](https://img.shields.io/badge/JS-FFD43D?style=for-the-badge&logo=javascript&logoColor=white)</a>
+
+Machine Learning & Data Analysis <br>
 <a href="">![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)</a>
+
+Deployment & Version Control <br>
 <a href="">![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="">![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)</a>
 
