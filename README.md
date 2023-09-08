@@ -4,6 +4,7 @@ My name's Chonsawat Nakanam. I'm during make [TikTok Sound](https://github.com/c
 #### Now learning ... ⌛
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Next Learning Plan...
 <a href="">![](https://img.shields.io/badge/ASP.NET-8d10d7?style=for-the-badge&logo=dotnet&logoColor=white)</a>
