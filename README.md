@@ -1,5 +1,5 @@
 ### Greeting, Everyone 👋
-My name's Chonsawat Nakanam. I'm during make [TikTok Sound](https://github.com/chonsawat/TikTokSound2).
+My name's Chonsawat Nakanam. I'm during make [TikTok Sound](https://github.com/chonsawat/TikTokSound2), and learn JAVA.
 
 #### Now learning ... ⌛
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
