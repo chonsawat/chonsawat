@@ -2,6 +2,11 @@
 My name's Chonsawat Nakanam. I'm during make [TikTok Sound](https://github.com/chonsawat/TikTokSound2), and learn Spring Boot.
 
 #### Now learning ... ⌛
+RPGLE 
+SQLRPGLE
+OS/400
+
+#### Holding ... ⌛
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
